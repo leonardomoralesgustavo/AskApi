@@ -1,0 +1,105 @@
+{
+  "name": "Cuestionario de gobierno de la empresa para proyectos de aceleración",
+  "description": "Evaluar los factores del área de Gobierno de la Empresa, con la finalidad de obtener parámetros de actuación (plan de acción) para la puesta en marcha de la aceleración.",
+  "questions": [
+    {
+      "text": "¿Contamos con una visión de empresa para este año, 1, 3 y 5 años?"
+    },
+    {
+      "text": "¿Contamos con valores centrales bien definidos?"
+    },
+    {
+      "text": "¿Contamos con un plan de largo plazo para la empresa?"
+    },
+    {
+      "text": "¿La visión de la empresa está claramente compartida por el equipo directivo?"
+    },
+    {
+      "text": "¿Contamos con los mecanismos para asegurar el cumplimiento de los valores centrales por parte de todo el personal, en especial del equipo directivo?"
+    },
+    {
+      "text": "¿Se tienen claras las estrategias a seguir?"
+    },
+    {
+      "text": "¿Está claramente separada la propiedad, la dirección y la familia?"
+    },
+    {
+      "text": "¿Cada dirección cuenta con un plan de acción para lograr sus objetivos?"
+    },
+    {
+      "text": "¿Contamos con mecanismos que representan adecuadamente a la estructura propietaria (consejo de administración, consejo consultivo, comité de dirección, etcétera)?"
+    },
+    {
+      "text": "¿Contamos con un documento en el que se establece la separación entre la propiedad, la dirección y la familia?"
+    },
+    {
+      "text": "¿Existen objetivos para cada una de las direcciones de la empresa?"
+    },
+    {
+      "text": "¿Existen juntas de seguimiento para asegurar el cumplimiento de los objetivos de cada director?"
+    },
+    {
+      "text": "¿La dirección general mantiene enfocado a su equipo directivo?"
+    },
+    {
+      "text": "¿Contamos con sistemas de control de gestión: Tablero de control?"
+    },
+    {
+      "text": "¿Contamos con un plan de sucesión para la Dirección General?"
+    },
+    {
+      "text": "¿El estilo directivo de la DG es el adecuado para lograr la visión de la empresa?"
+    },
+    {
+      "text": "¿La DG fomenta la discusión constructiva de los problemas medulares de la empresa entre su equipo directivo?"
+    },
+    {
+      "text": "¿Conocemos cual es el proyecto de vida de cada uno de los directivos?"
+    },
+    {
+      "text": "¿La dirección general comunica eficazmente las estrategias y planes a su equipo directivo?"
+    },
+    {
+      "text": "¿La comunicación entre el equipo directivo y la DG es ágil y transparente?"
+    },
+    {
+      "text": "¿Conozco la fortaleza de la empresa para el mercado?"
+    },
+    {
+      "text": "¿Estoy al tanto cómo se comporta la competencia y los demás actores del sector?"
+    },
+    {
+      "text": "¿Tengo identificados los procesos que requieren de cuidado continuo por su importancia (o bien por el valor económico que involucra o bien por el tipo de personal que se tiene)?"
+    },
+    {
+      "text": "¿Identifico los campos en que no puedo equivocarme?"
+    },
+    {
+      "text": "¿Conozco los factores clave, ajenos a la empresa, los cuales pueden afectar al negocio?"
+    },
+    {
+      "text": "¿Tenemos una cartera de proyectos para mejorar nuestra participación de mercado?"
+    },
+    {
+      "text": "¿Contamos con mecanismos para procesar las diferencias entre los miembros del equipo directivo?"
+    },
+    {
+      "text": "¿Contamos con ventajas en relación a mis competidores: patentes, alianzas…?"
+    },
+    {
+      "text": "¿Los directores son leales a la Dirección General?"
+    },
+    {
+      "text": "¿Tengo fácil acceso al mercado de financiamiento y tecnología para el desarrollo de nuevos proyectos?"
+    }
+  ],
+  "answers": [
+    { "value": 1, "text": "No existe o definitivamente no" },
+    { "value": 2, "text": "Existe de manera informal o solo en alguna medida" },
+    {
+      "value": 3,
+      "text": "Está documentado pero no esá implantado o en gran medida"
+    },
+    { "value": 4, "text": "Está documentado e implantado o definitivamente si" }
+  ]
+}

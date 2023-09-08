@@ -1,0 +1,204 @@
+{
+  "name": "Cuestionario de procesos y operaciones para proyectos de aceleración",
+  "description": "Evaluar los procesos principales de negocio y de operación, con la finalidad de obtener parámetros de actuación (plan de acción) para la puesta en marcha de la aceleración.",
+  "questions": [
+    {
+      "text": "¿Conozco y entiendo la actividad de recepción de pedidos?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de diseño?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de revisión de especificaciones técnicas?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de programación de pedidos?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de compras y suministro?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de preparación de inventarios?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de prestación del servicio o fabricación del producto?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de almacenamiento?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de facturación?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de envío al cliente?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de cobranza?"
+    },
+    {
+      "text": "¿Conozco y entiendo la actividad de servicio post venta?"
+    },
+    {
+      "text": "¿Estoy al pendiente de los indicadores globales de la empresa?"
+    },
+    {
+      "text": "¿Se da un seguimiento semanal o mensual a dichos indicadores globales?"
+    },
+    {
+      "text": "¿Los indicadores de mi área se apegan a los indicadores globales?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de recepción de pedidos a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de diseño a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de revisión de especificaciones a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de programación de pedidos a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de compras y suministro a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de preparación de inventarios a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de prestación de servicio o fabricación del producto a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de almacenamiento a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de facturación a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de envío al cliente a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de cobranza a la actividad siguiente?"
+    },
+    {
+      "text": "¿Los trabajos fluyen rápidamente de servicio post venta a la actividad siguiente?"
+    },
+    {
+      "text": "¿La actividad de recepción de pedidos podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de diseño podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de revisión de especificaciones podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de programación de pedidos podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de compras y suministro podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de preparación de inventarios podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de prestación de servicio o fabricación del producto podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de almacenamiento podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de facturación podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de envío al cliente podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de cobranza podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿La actividad de servicio post venta podría procesar más trabajos que los que regularmente atiende?"
+    },
+    {
+      "text": "¿Empiezo una tarea y no la dejo hasta que la finalizo (cero cambio de prioridades)?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de recepción de pedidos  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de diseño  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de revisión de especificaciones técnicas facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de recepción de pedidos  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de programación de pedidos  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de compras y suministros  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de preparación de inventario para producción  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de prestación del servicio o fabricación del producto  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de almacenamiento  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de facturación  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de envío al cliente  facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de cobranza facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Los indicadores o medidores de servicio post venta facilitan o ayudan al logro de mis resultados?"
+    },
+    {
+      "text": "¿Todas las áreas tenemos los mismos criterios para priorizar los trabajos?"
+    },
+    {
+      "text": "¿El mecanismo de seguimiento de pedidos de clientes me permite conocer en todo momento el estado de avance de cada trabajo?"
+    },
+    {
+      "text": "¿El inventario físico corresponde con el inventario en el sistema?"
+    },
+    {
+      "text": "¿Todo lo que se factura se cobra?"
+    },
+    {
+      "text": "¿Todo lo que se entrega al cliente se factura?"
+    },
+    {
+      "text": "¿Los sistemas de información / software / reportes, son suficientes y confiables para hacer mi trabajo de forma eficiente?"
+    },
+    {
+      "text": "¿Las herramientas como equipo de cómputo / maquinaria / otras, son suficientes y se encuentran en buen estado para hacer mi trabajo de forma eficiente?"
+    },
+    {
+      "text": "¿Existe un estricto control de inventarios desde  que se compran las materias primas hasta que los productos terminados son recibidos por los clientes (cero fugas)?"
+    },
+    {
+      "text": "¿Entregamos nuestro servicio o producto con la calidad que el cliente espera?"
+    },
+    {
+      "text": "¿Tenemos un control de calidad interno que nos permite identificar errores y defectos en el lugar donde se producen?"
+    },
+    {
+      "text": "¿Los productos / servicios son entregados al cliente en la fecha prometida?"
+    }
+  ],
+  "answers": [
+    { "value": 1, "text": "Rara vez o nada" },
+    { "value": 2, "text": "Algunas veces o poco" },
+    { "value": 3, "text": "La mayor parte del tiempo o bastante" },
+    { "value": 4, "text": "Siempre o totalmente" }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Cuestionario de comercialización para proyectos de aceleración",
+  "description": "Evaluar los factores del área de Comercialización en la empresa con la finalidad de identificar elementos, procesos y estrategias que permitan desarrollar un plan de acción para su aceleración.",
+  "questions": [
+    {
+      "text": "¿La empresa es reconocida porque cumple sus compromisos?"
+    },
+    {
+      "text": "¿La empresa es reconocida por tener precios competitivos?"
+    },
+    {
+      "text": "¿La empresa es reconocida por su buen servicio?"
+    },
+    {
+      "text": "¿La empresa es reconocida por su amplia cobertura geográfica?"
+    },
+    {
+      "text": "¿Somos considerados líderes en el mercado?"
+    },
+    {
+      "text": "¿Somos una empresa que da soluciones efectivas?"
+    },
+    {
+      "text": "¿Tenemos alta participación de mercado?"
+    },
+    {
+      "text": "¿Tenemos bien identificado el mercado objetivo?"
+    },
+    {
+      "text": "¿Estamos vendiendo exitosamente en el mercado objetivo?"
+    },
+    {
+      "text": "¿Conozco a mi competencia directa?"
+    },
+    {
+      "text": "¿Tengo identificados a mis futuros prospectos?"
+    },
+    {
+      "text": "¿Conozco a todos mis clientes y los tengo clasificados por su importancia en ventas y utilidades?"
+    },
+    {
+      "text": "¿Actualmente tenemos clientes en el extranjero?"
+    },
+    {
+      "text": "¿Contamos con una línea de productos (soluciones) adecuadas al mercado?"
+    },
+    {
+      "text": "¿Contamos con una amplia gama de productos?"
+    },
+    {
+      "text": "¿Tenemos la flexibilidad necesaria para ofrecer soluciones a la medida?"
+    },
+    {
+      "text": "¿Continuamente desarrollamos nuevos productos?"
+    },
+    {
+      "text": "¿Nuestro producto es de calidad?"
+    },
+    {
+      "text": "¿Hacemos entregas a tiempo?"
+    },
+    {
+      "text": "¿Damos prioridad al servicio al cliente y contamos con las herramientas para atenderlos?"
+    },
+    {
+      "text": "¿Conozco los productos y soluciones que generan mayores utilidades?"
+    },
+    {
+      "text": "¿Los montos de ventas y utilidades del 2009 fueron buenos?"
+    },
+    {
+      "text": "¿Los montos de ventas y utilidades del 2008 fueron buenos?"
+    },
+    {
+      "text": "¿La mayor parte de nuestros ingresos dependen de pocos clientes?"
+    },
+    {
+      "text": "¿Contamos con un plan de ventas mensual y para este año?"
+    },
+    {
+      "text": "¿Existe una estructura formal de ventas?"
+    },
+    {
+      "text": "¿La fuerza de ventas dedica el 100% de su tiempo a la labor de ventas?"
+    },
+    {
+      "text": "¿Nuestros vendedores están adecuadamente seleccionados?"
+    },
+    {
+      "text": "¿Nuestros vendedores están adecuadamente capacitados?"
+    },
+    {
+      "text": "¿El esquema de compensación de los vendedores incentiva las ventas y atracción de nuevos clientes?"
+    },
+    {
+      "text": "¿Existen procesos de ventas que se respetan?"
+    },
+    {
+      "text": "¿Se hacen reportes de ventas que se revisan periódicamente?"
+    },
+    {
+      "text": "¿Tenemos una estrategia para incrementar las ventas?"
+    },
+    {
+      "text": "¿Tenemos una estrategia para obtener nuevos clientes?"
+    },
+    {
+      "text": "¿Tenemos una estrategia para retener a los clientes actuales?"
+    },
+    {
+      "text": "¿Estamos preparándonos para exportar?"
+    },
+    {
+      "text": "¿Tenemos una estrategia de comunicación y promoción?"
+    },
+    {
+      "text": "¿Contamos con un presupuesto de promoción?"
+    }
+  ],
+  "answers": [
+    { "value": 1, "text": "Rara vez o nada" },
+    { "value": 2, "text": "Algunas veces o poco" },
+    { "value": 3, "text": "La mayor parte del tiempo o bastante" },
+    { "value": 4, "text": "Siempre o totalmente" }
+  ]
+}

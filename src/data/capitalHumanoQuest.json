@@ -1,0 +1,177 @@
+{
+  "name": "Cuestionario de capital humano para proyectos de aceleración",
+  "description": "Evaluar los factores del área de capital humano en la organización o empresa de que se trate, con la finalidad de obtener parámetros de actuación (plan de acción) para la puesta en marcha de la aceleración",
+  "questions": [
+    {
+      "text": "¿Tenemos los expedientes completos de cada persona que trabaja en esta institución?"
+    },
+    {
+      "text": "¿Tenemos una base de datos que nos proporciona información básica de todo nuestro personal?"
+    },
+    {
+      "text": "¿La nómina de todos se paga puntualmente?"
+    },
+    {
+      "text": "¿El 100% de las percepciones de los empleados están grabadas ante el IMSS o el ISSTE (según sea el caso)?"
+    },
+    {
+      "text": "¿Tenemos al día nuestro manual de descripción de puestos?"
+    },
+    {
+      "text": "¿Contamos con los perfiles básicos de los puestos clave de la organización?"
+    },
+    {
+      "text": "¿Tenemos la estructura adecuada para nuestra operación?"
+    },
+    {
+      "text": "¿Damos servicios adicionales al personal como despensas, vales de gasolina, uniformes, transporte, etcétera?"
+    },
+    {
+      "text": "¿Conocemos la competitividad de nuestros sueldos en el mercado?"
+    },
+    {
+      "text": "¿Tenemos contrato colectivo de trabajo y está bajo control?"
+    },
+    {
+      "text": "¿Tenemos sindicato de empresa y está bajo control?"
+    },
+    {
+      "text": "¿Contamos con un esquema eficiente de reclutamiento y selección de personal?"
+    },
+    {
+      "text": "¿Tenemos los perfiles de todos los puestos de esta organización?"
+    },
+    {
+      "text": "¿Realizamos análisis de puestos al menos una vez al año?"
+    },
+    {
+      "text": "¿Conocemos el valor económico de los puestos clave de la organización?"
+    },
+    {
+      "text": "¿Existen políticas y procedimientos para cubrir vacantes?"
+    },
+    {
+      "text": "¿Cada año hacemos planeación de personal y por consecuencia no tenemos retrasos en la dotación del mismo?"
+    },
+    {
+      "text": "¿Tenemos un eficiente esquema de evaluación de personal que nos permite comparar puesto – perfil – persona?"
+    },
+    {
+      "text": "¿Contamos con perfiles de puesto por competencias?"
+    },
+    {
+      "text": "¿Todo el equipo directivo sabe exactamente el rumbo que debe tener la organización?"
+    },
+    {
+      "text": "¿El equipo directivo funciona como un verdadero equipo de trabajo?"
+    },
+    {
+      "text": "¿La comunicación entre los miembros del equipo directivo es fluida y eficaz?"
+    },
+    {
+      "text": "¿El equipo directivo toma decisiones importantes para la organización de manera colegiada?"
+    },
+    {
+      "text": "¿Es evidente que el equipo directivo está bien integrado, porque todos tiene una misma visión de empresa u organización?"
+    },
+    {
+      "text": "¿Los directores tienen un fuerte liderazgo sobre su personal?"
+    },
+    {
+      "text": "¿Todos los puestos tienen definidos sus objetivos?"
+    },
+    {
+      "text": "¿Las personas ocupantes de los puestos entienden y saben cómo lograr sus objetivos?"
+    },
+    {
+      "text": "¿Tenemos un formato definido de evaluación del desempeño?"
+    },
+    {
+      "text": "¿Se revisa periódicamente el desempeño del personal?"
+    },
+    {
+      "text": "¿Cada jefe de área o grupo ha sido entrenado y sabe cómo negociar el desempeño de sus colaboradores?"
+    },
+    {
+      "text": "¿Existe un reconocimiento económico por el cumplimiento de metas, adicional al sueldo?"
+    },
+    {
+      "text": "¿Tenemos un bono de productividad que nos compensa el buen desempeño y todos son evaluados bajo los mismos indicadores?"
+    },
+    {
+      "text": "¿Se percibe un ambiente de justicia y equidad en las compensaciones que nos da la organización?"
+    },
+    {
+      "text": "¿Cuando menos cada año la organización proporciona capacitación?"
+    },
+    {
+      "text": "¿Existe un programa de capacitación anual que proporciona los conocimientos y habilidades para desempeñarse mejor en los puestos?"
+    },
+    {
+      "text": "¿Cada área puede definir sus necesidades de capacitación y la empresa proporciona la capacitación requerida?"
+    },
+    {
+      "text": "¿En la organización se maneja un presupuesto anual de capacitación?"
+    },
+    {
+      "text": "¿Todos los ocupantes de puestos clave de la organización están actualizados de acuerdo a su especialidad?"
+    },
+    {
+      "text": "¿A falta de recursos, la organización organiza entrenamiento y capacitaciones internas, para cada puesto?"
+    },
+    {
+      "text": "¿Cada puesto clave tiene un plan de sucesión o parrilla de reemplazo?"
+    },
+    {
+      "text": "¿Existe en la empresa una política y procedimiento para promociones y ascensos?"
+    },
+    {
+      "text": "¿Cada puesto clave tiene un programa anual de enriquecimiento de la función que lo lleve a generar mayor valor para la empresa?"
+    },
+    {
+      "text": "¿Cada empleado conoce cuál será su plan de carrera dentro de la organización?"
+    },
+    {
+      "text": "¿Está en proceso de preparación el reemplazo para la dirección general?"
+    },
+    {
+      "text": "¿En la empresa u organización si hay promociones y ascensos?"
+    },
+    {
+      "text": "¿Se percibe un clima de cooperación y ayuda entre los empleados?"
+    },
+    {
+      "text": "¿En la organización, se percibe un ambiente humano?"
+    },
+    {
+      "text": "¿Se tiene la percepción de que en la organización los directivos son justos?"
+    },
+    {
+      "text": "¿La dirección está preocupada y ocupada en que sus colaboradores trasciendan?"
+    },
+    {
+      "text": "¿El liderazgo de los puestos de mando ayuda a que las personas estén estables en sus puestos?"
+    },
+    {
+      "text": "¿La comunicación entre las áreas es positiva y se da un ambiente de cordialidad?"
+    },
+    {
+      "text": "¿Las condiciones de trabajo son las adecuadas para el tipo y naturaleza de la empresa?"
+    },
+    {
+      "text": "¿El compromiso de la dirección es correspondido por el resto de la organización?"
+    },
+    {
+      "text": "¿Los jefes y supervisores saben trabajar con personas y logran los resultados esperados?"
+    },
+    {
+      "text": "¿Se aprecia y reconoce el buen desempeño de los colaboradores?"
+    }
+  ],
+  "answers": [
+    { "value": 1, "text": "Rara vez o nada" },
+    { "value": 2, "text": "Algunas veces o poco" },
+    { "value": 3, "text": "La mayor parte del tiempo o bastante" },
+    { "value": 4, "text": "Siempre o totalmente" }
+  ]
+}

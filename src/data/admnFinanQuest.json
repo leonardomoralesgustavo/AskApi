@@ -1,0 +1,95 @@
+{
+  "name": "Cuestionario de administración y finanzas para proyectos de aceleración",
+  "description": "Evaluar los factores del área de Administración y Finanzas en la organización o empresa de que se trate, con la finalidad de obtener parámetros de actuación (plan de acción) para la puesta en marcha de la aceleración.",
+  "questions": [
+    {
+      "text": "¿El Estado de Resultados es confiable y lo uso para la toma de decisiones?"
+    },
+    {
+      "text": "¿El Balance General es confiable y lo uso para la toma de decisiones?"
+    },
+    {
+      "text": "¿El flujo de efectivo es confiable y lo uso para proyectar necesidades futuras de liquidez?"
+    },
+    {
+      "text": "¿Los Estados Financieros se generan antes del 5to día hábil de cada mes, apoyando el proceso de toma de decisiones proactivas?"
+    },
+    {
+      "text": "¿Se cuenta con capacidad de financiamiento externo para soportar el crecimiento?"
+    },
+    {
+      "text": "¿La prueba ácida arroja un índice mayor a 1.0. (Activo Circulante / Pasivo Circulante es mayor a 1.0)?"
+    },
+    {
+      "text": "¿Se cuenta con fondos gubernamentales que esta empresa está en condiciones de acceder?"
+    },
+    { "text": "¿Se tienen mecanismos de control de efectivo?" },
+    {
+      "text": "¿Conocemos el ciclo de generación de efectivo. (Días de Inventarios + Días de CXC – Días de CXP)?"
+    },
+    {
+      "text": "¿Conocemos el nivel mínimo de capital de trabajo requerido para operar?"
+    },
+    {
+      "text": "¿Se cuenta con un programa integral de planeación financiera y operativa de toda la empresa?"
+    },
+    {
+      "text": "¿Se cuenta con un proceso institucional de seguimiento a objetivos?"
+    },
+    {
+      "text": "¿Se tiene un plan de incremento de gastos para el crecimiento, identificando cómo se financiarán?"
+    },
+    {
+      "text": "¿Se tiene un plan para nuevas inversiones y cómo se financiarán?"
+    },
+    {
+      "text": "¿Se tiene identificado el nivel de apalancamiento óptimo.  (Pasivo con costo / Activo Total)?"
+    },
+    {
+      "text": "¿Se lleva un método para la decisión de conveniencia de los nuevos gastos e inversiones (análisis incremental)?"
+    },
+    {
+      "text": "¿Se tienen políticas de anticipos y crédito así como condiciones de pago con los proveedores?"
+    },
+    {
+      "text": "¿Se tienen mecanismos de control de bienes de uso (Activo Fijo)?"
+    },
+    {
+      "text": "¿Se conocen y se miden los procesos críticos que agregan valor?"
+    },
+    {
+      "text": "¿Se tiene un método para la determinación de precios y rentabilidad de productos?"
+    },
+    {
+      "text": "¿Conocemos Gastos de Operación Fijos que no son necesarios para la generación de Contribución Marginal (Nice to have)?"
+    },
+    {
+      "text": "¿Conocemos los indicadores con que se mide la aportación de valor?"
+    },
+    {
+      "text": "¿Conocemos y monitoreamos los procesos críticos de negocio donde se genera el dinero?"
+    },
+    {
+      "text": "¿Conocemos la rentabilidad de cada unidad de negocio independiente?"
+    },
+    { "text": "¿Se cuenta con segmentación de clientes por rentabilidad?" },
+    {
+      "text": "¿Conocemos el punto de equilibrio y la contribución marginal mínima requerida?"
+    },
+    {
+      "text": "¿Conozco la composición del Costo Totalmente variable. (Materia prima, componentes, comisiones de ventas, etc)?"
+    },
+    {
+      "text": "¿Conocemos el margen bruto promedio de mercado y estamos por encima del mismo?"
+    },
+    {
+      "text": "¿Conozco la rotación de activos y es superior a 1.0. (Ventas / Activo Total) es superior a 1.0.?"
+    }
+  ],
+  "answers": [
+    { "value": 1, "text": "Rara vez o nada" },
+    { "value": 2, "text": "Algunas veces o poco" },
+    { "value": 3, "text": "La mayor parte del tiempo o bastante" },
+    { "value": 4, "text": "Siempre o totalmente" }
+  ]
+}
